@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://yuvi:yuvi@cluster0.7sr3r.mongodb.net/hyratech?retryWrites=true&w=majority",
+  "jwtsecret": "IamIronMan"
+}
